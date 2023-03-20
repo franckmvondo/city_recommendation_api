@@ -1,0 +1,7 @@
+bs4
+fastapi
+pandas
+requests
+SQLAlchemy
+unidecode
+uvicorn
