@@ -5,6 +5,7 @@ dist/
 # Compiled Python bytecode
 *.py[cod]
 __pycache__
+.build.sh
 
 # Log files
 *.log
