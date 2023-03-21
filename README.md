@@ -1,16 +1,9 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
+### Quick summary ###
 
-### What is this repository for? ###
-
-* Quick summary
-
-API which allows to give the list of the most interesting cities for the user according to the price per m² (for apartment rental) as well as the city's rating.
-
-* Version
-
+city_recommendation_api is an API which allows to give the list of the most interesting cities for the user according to the price per m² (for apartment rental) as well as the city's rating.
 
 ### How do I get set up? ###
 
@@ -26,6 +19,10 @@ API which allows to give the list of the most interesting cities for the user ac
 
 * Deployment instructions
 
+If you have docker compose on your infrastructure, just execute the instruction below in the root of the project:
+```shell
+$ docker compose up --build
+```
 
 ### Contribution guidelines ###
 
@@ -34,10 +31,3 @@ API which allows to give the list of the most interesting cities for the user ac
 * Code review
 
 * Other guidelines
-
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-
-* Other community or team contact
